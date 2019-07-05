@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#top {
+    color:maroon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: bold;
+    background-color: #f7a6a6;
+    border: 3px solid  rgb(173, 230, 173);
+    padding: 20px 20px 20px 20px;
+    margin: 0px 3px 3px 3px
+}
+
+body {
+    background-color:antiquewhite;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+
+
+
