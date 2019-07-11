@@ -5,14 +5,10 @@
 
 #top {
     color:maroon;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:"Josefin Sans" , 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     font-weight: bold;
-    background-color: #f7a6a6;
-    border: 3px solid  rgb(173, 230, 173);
-    padding: 20px 20px 20px 20px;
-    margin: 0px 3px 3px 3px
-}
+     }
 
 body {
     background-color:antiquewhite;
@@ -23,6 +19,119 @@ figcaption {
     font-style: italic;
 }
 
+header {
+    position: static;
+    width: 100%;
+    background-color: #f7a6a6;
+    border: 3px solid  rgb(173, 230, 173);
+    padding: 20px 20px 20px 20px;
+    margin: 0px 3px 3px 3px
+}
 
+nav {
+    width: 100%;
+}
 
+main {
+    position:relative;
+    top:20px;
+}
 
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.9em;
+}
+
+#book {
+    width: 252px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 20px;
+
+}
+
+p {
+    font-family: "Josefin Sans" , 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: 0.3em;
+    line-height: 1.4;
+    font-size: 150%;
+
+}
+
+#top-p {
+    height: 375px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+iframe {
+    margin: 20px 20px 20px 100px;
+}
+
+.odd a {
+    color:blue;
+}
+
+.even a {
+    color: green;
+}
+
+section {
+    margin-top: 20px;
+}
+
+#soap {
+    width:560px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+#p1 {
+    height: 375px;
+    margin-left: 100px;
+    
+}
+
+#p1-images {
+    width:560px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+#p1p {
+    margin-bottom: 50px;
+}
+
+.images {
+    width:560px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+p {
+    height: 375px;
+    margin-left: 100px;
+    margin-bottom: 50px; 
+}
+
+#mass {
+    height: 375px;
+    margin-left: 100px;
+    margin-bottom: 200px; 
+}
+
+footer {
+    clear: right;
+}
+
+#last {
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-left: 100px;
+}
